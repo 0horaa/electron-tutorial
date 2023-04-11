@@ -1,0 +1,15 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "Electron Tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Gabriel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  }
+}
